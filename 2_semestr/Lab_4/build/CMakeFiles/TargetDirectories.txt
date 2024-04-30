@@ -1,0 +1,3 @@
+C:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/Lab_4/build/CMakeFiles/Laboratory_4.dir
+C:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/Lab_4/build/CMakeFiles/ALL_BUILD.dir
+C:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/Lab_4/build/CMakeFiles/ZERO_CHECK.dir

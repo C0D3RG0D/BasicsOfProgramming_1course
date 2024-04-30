@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\Lab_4\Lab4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\Lab_4\Class_lab4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\Lab_4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{28E2FE90-E64D-3FD2-B33F-666B7B1ED21B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{07C836A5-EB1B-3BA7-B849-56DDD4DE18BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
