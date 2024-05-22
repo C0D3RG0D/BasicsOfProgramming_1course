@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\automat\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\automat\Circle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\BasicsOfProgramming\BasicsOfProgramming_1course\2_semestr\automat\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EC1BA15B-9FDB-322A-B9EE-E012CD5C9063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1F5FD6EA-60D0-30A8-B20D-1B5D24874A1A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

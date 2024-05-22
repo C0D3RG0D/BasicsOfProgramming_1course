@@ -1,0 +1,10 @@
+^C:\BASICSOFPROGRAMMING\BASICSOFPROGRAMMING_1COURSE\2_SEMESTR\AUTOMAT\BUILD\CMAKEFILES\056566E4FF0E9CC833A1FDF7AF27A2DA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/automat -BC:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/automat/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/BasicsOfProgramming/BasicsOfProgramming_1course/2_semestr/automat/build/AUTOMAT_Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
